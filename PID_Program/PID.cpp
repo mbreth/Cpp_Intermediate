@@ -1,6 +1,5 @@
 // Programmer: Morgan Breth
 // Date Created: July 16th, 2019
-// Purpose: PID for Maxitrol Valve
 
 #if ARDUINO >= 100
 #include "Arduino.h"
