@@ -1,6 +1,5 @@
 // Programmer: Morgan Breth
 // Date Created: July 16th, 2019
-// Purpose: PID for Maxitrol Valve
 
 #ifndef PID_h
 #define PID_h
