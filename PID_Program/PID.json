@@ -1,7 +1,7 @@
 {
     "name": "PID for Maxitrol Valve",
     "version": "1.0.0",
-    "description": "C++ code to control the modulating gas valve and eventually oven heating elements",
+    "description": "C++ code to control a motor with an Arduino",
     "debug": "true",
     "include": "PID",
     "enable": "debug",
